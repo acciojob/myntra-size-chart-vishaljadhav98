@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.table{
+	border: 1px solid black;
+}
+.thead{
+	border: 1px solid black;
+}
+.tbody{
+	border: 1px solid black;
+}
